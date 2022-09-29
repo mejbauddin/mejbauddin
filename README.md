@@ -1,10 +1,12 @@
 ![Aditya Vikram Singh Banner](https://github.com/mejbauddin/mejbauddin/blob/main/mejbahuddin%20cover.jpg?raw=true)
+<p align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mejbauddin&theme=2077)
 
+</p>
 <img alt="Night Coding" src="https://github.com/mejbauddin/mejbauddin/blob/main/mejbah.gif?raw=true" width='40' align="left"/><h2>Hey there! I'm Mejbah</h2>
 
-<img alt="Night Coding" src="https://github.com/mejbauddin/mejbauddin/blob/main/hardwork.webp" align="right" height="345px"/>
+<img alt="Night Coding" src="https://github.com/mejbauddin/mejbauddin/blob/main/hardwork.webp" align="right" height="355px"/>
 <!-- ## 👋 &nbsp;Hey there! I'm Mejbah -->
 
 ### 🤵🏻‍💻 &nbsp;About Me
@@ -18,7 +20,7 @@
 📄 &nbsp;Please have a look at my [Resume](#) for more details about me. I'm open to feedback and suggestions!
 
 
-<hr style="height:0.10em;text-align:left;margin-left:0">
+<h1></h1>
 
 ### ⚡ &nbsp;Skills
 
@@ -39,7 +41,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-<hr style="height:0.10em;text-align:left;margin-left:0">
+<h1></h1>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -62,7 +64,7 @@
 </p>
 -->
 
-<hr style="height:0.10em;text-align:left;margin-left:0">
+<h1></h1>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
