@@ -46,9 +46,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <div align="center">   
-    <a href="mailto:mejbahuddin2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=FFA518" alt="IntelligentQuantum-ProtonMail"></a>
-    <a href="https://www.Instagram.com/majbauddin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFA518" alt="IntelligentQuantum-Instagram"></a>
-    <a href="https://www.facebook.com/mejbah.uddin.profile" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=F0DB4F" alt="mejbauddin-bacebook"></a>
+    <a href="mailto:mejbahuddin2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-141321?style=for-the-badge&logo=gmail&logoColor=fcee0c" alt="mejbahuddin-gmail"></a>
+    <a href="https://www.Instagram.com/#/" target="_blank"><img src="https://img.shields.io/badge/Instagram-141321?style=for-the-badge&logo=instagram&logoColor=fcee0c" alt="mejbahuddin-Instagram"></a>
+    <a href="https://www.facebook.com/mejbah.uddin.profile" target="_blank"><img src="https://img.shields.io/badge/Facebook-141321?style=for-the-badge&logo=facebook&logoColor=fcee0c" alt="mejbauddin-bacebook"></a>
     <br><br>
     <img alt="majbahuddin-Facebook" src="https://github.com/mejbauddin/mejbauddin/blob/main/facebook.png?raw=true" width="300px"/>
 </div>
